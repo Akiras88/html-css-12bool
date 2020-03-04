@@ -3,13 +3,19 @@
   margin: 0;
   padding: 0;
 }
+
+/* common style */
+.col-2 {
+  border: 5px solid #000;
+  margin: 5px;
+}
 /* style line 1  */
 .foto-1-1 .col-2 {
   background-image: url(../img/foto-1.1.jfif);
   background-position: center;
   background-size: cover;
   max-width: 100%;
-  width: 195px;
+  width: 190px;
   height: 155px;
 }
 .foto-1-2 .col-2 {
@@ -17,7 +23,7 @@
   background-position: center;
   background-size: cover;
   max-width: 100%;
-  width: 195px;
+  width: 190px;
   height: 155px;
 }
 .foto-1-3 .col-2 {
@@ -25,7 +31,7 @@
   background-position: center;
   background-size: cover;
   max-width: 100%;
-  width: 195px;
+  width: 190px;
   height: 155px;
 }
 .foto-1-4 .col-2 {
@@ -33,7 +39,7 @@
   background-position: center;
   background-size: cover;
   max-width: 100%;
-  width: 195px;
+  width: 190px;
   height: 155px;
 }
 .foto-1-5 .col-2 {
@@ -41,7 +47,7 @@
   background-position: center;
   background-size: cover;
   max-width: 100%;
-  width: 195px;
+  width: 190px;
   height: 155px;
 }
 .foto-1-6 .col-2 {
@@ -49,7 +55,7 @@
   background-position: center;
   background-size: cover;
   max-width: 100%;
-  width: 195px;
+  width: 190px;
   height: 155px;
 }
 
@@ -59,7 +65,7 @@
   background-position: center;
   background-size: cover;
   max-width: 100%;
-  width: 195px;
+  width: 190px;
   height: 155px;
 }
 .foto-2-2 .col-2 {
@@ -67,7 +73,7 @@
   background-position: center;
   background-size: cover;
   max-width: 100%;
-  width: 195px;
+  width: 190px;
   height: 155px;
 }
 .foto-2-3 .col-2 {
@@ -75,7 +81,7 @@
   background-position: center;
   background-size: cover;
   max-width: 100%;
-  width: 195px;
+  width: 190px;
   height: 155px;
 }
 .foto-2-4 .col-2 {
@@ -83,7 +89,7 @@
   background-position: center;
   background-size: cover;
   max-width: 100%;
-  width: 195px;
+  width: 190px;
   height: 155px;
 }
 .foto-2-5 .col-2 {
@@ -91,7 +97,7 @@
   background-position: center;
   background-size: cover;
   max-width: 100%;
-  width: 195px;
+  width: 190px;
   height: 155px;
 }
 .foto-2-6 .col-2 {
@@ -99,7 +105,7 @@
   background-position: center;
   background-size: cover;
   max-width: 100%;
-  width: 195px;
+  width: 190px;
   height: 155px;
 }
 
@@ -109,7 +115,7 @@
   background-position: center;
   background-size: cover;
   max-width: 100%;
-  width: 195px;
+  width: 190px;
   height: 155px;
 }
 .foto-3-2 .col-2 {
@@ -117,31 +123,16 @@
   background-position: center;
   background-size: cover;
   max-width: 100%;
-  width: 195px;
+  width: 190px;
   height: 155px;
 }
-.foto-3-3 .col-2 {
-  background-image: url(../img/foto-3.3.jfif);
-  background-position: center;
-  background-size: cover;
-  max-width: 100%;
-  width: 195px;
-  height: 155px;
-}
-.foto-3-4 .col-2 {
-  background-image: url(../img/foto-3.4.jfif);
-  background-position: center;
-  background-size: cover;
-  max-width: 100%;
-  width: 195px;
-  height: 155px;
-}
+
 .foto-3-5 .col-2 {
   background-image: url(../img/foto-3.5.jfif);
   background-position: center;
   background-size: cover;
   max-width: 100%;
-  width: 195px;
+  width: 190px;
   height: 155px;
 }
 .foto-3-6 .col-2 {
@@ -149,7 +140,7 @@
   background-position: center;
   background-size: cover;
   max-width: 100%;
-  width: 195px;
+  width: 190px;
   height: 155px;
 }
 
@@ -159,7 +150,7 @@
   background-position: center;
   background-size: cover;
   max-width: 100%;
-  width: 195px;
+  width: 190px;
   height: 155px;
 }
 .foto-4-2 .col-2 {
@@ -167,7 +158,7 @@
   background-position: center;
   background-size: cover;
   max-width: 100%;
-  width: 195px;
+  width: 190px;
   height: 155px;
 }
 .foto-4-3 .col-2 {
@@ -175,7 +166,7 @@
   background-position: center;
   background-size: cover;
   max-width: 100%;
-  width: 195px;
+  width: 190px;
   height: 155px;
 }
 .foto-4-4 .col-2 {
@@ -183,7 +174,7 @@
   background-position: center;
   background-size: cover;
   max-width: 100%;
-  width: 195px;
+  width: 190px;
   height: 155px;
 }
 .foto-4-5 .col-2 {
@@ -191,7 +182,7 @@
   background-position: center;
   background-size: cover;
   max-width: 100%;
-  width: 195px;
+  width: 190px;
   height: 155px;
 }
 .foto-4-6 .col-2 {
@@ -199,6 +190,56 @@
   background-position: center;
   background-size: cover;
   max-width: 100%;
-  width: 195px;
+  width: 190px;
+  height: 155px;
+}
+
+/* style line 5 */
+.foto-5-1 .col-2 {
+  background-image: url(../img/foto-5.1.jfif);
+  background-position: center;
+  background-size: cover;
+  max-width: 100%;
+  width: 190px;
+  height: 155px;
+}
+.foto-5-2 .col-2 {
+  background-image: url(../img/foto-5.2.jfif);
+  background-position: center;
+  background-size: cover;
+  max-width: 100%;
+  width: 190px;
+  height: 155px;
+}
+.foto-5-3 .col-2 {
+  background-image: url(../img/foto-5.3.jfif);
+  background-position: center;
+  background-size: cover;
+  max-width: 100%;
+  width: 190px;
+  height: 155px;
+}
+.foto-5-4 .col-2 {
+  background-image: url(../img/foto-5.4.jfif);
+  background-position: center;
+  background-size: cover;
+  max-width: 100%;
+  width: 190px;
+  height: 155px;
+}
+.foto-5-5 .col-2 {
+  background-image: url(../img/foto-5.5.jfif);
+  background-position: center;
+  background-size: cover;
+  max-width: 100%;
+  width: 190px;
+  height: 155px;
+}
+.foto-5-6 .col-2 {
+  background-image: url(../img/foto-5.6.jpg);
+  background-position: center;
+  background-size: cover;
+  max-width: 100%;
+  width: 190px;
   height: 155px;
 }
